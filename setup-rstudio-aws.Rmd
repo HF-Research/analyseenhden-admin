@@ -1,0 +1,14 @@
+---
+title: "Installing RStudio Server on AWS"
+date: "`r Sys.Date()`"
+output:
+  rmdformats::readthedown:
+    highlight: kate
+---
+
+# Launch AWS instance
+
+
+- Logon to your AWS account and launch an EC2 instance (make sure you are in the Europe Stockholm region)
+
+- Under security - add 
